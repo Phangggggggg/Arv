@@ -1,0 +1,10 @@
+file_path = 'sql_script/create_table.sql'
+sub_dis_path = 'thailand-master-data-2020-08-27-csv-by-BeYourCyber/th_subdistrict.csv'
+pro_path = 'thailand-master-data-2020-08-27-csv-by-BeYourCyber/th_province.csv'
+dis_path = 'thailand-master-data-2020-08-27-csv-by-BeYourCyber/th_district.csv'
+
+host = 'localhost'
+user = 'root'
+password = 'phang123'
+port = '3306'
+database = 'arv_test'
